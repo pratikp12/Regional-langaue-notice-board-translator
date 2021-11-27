@@ -1,4 +1,4 @@
-# Regional-langaue-notice-board-translator
+# Regional-language-notice-board-translator
 # idea
 For a new-comer to the city, Pune and Puneite may appear to be arrogant, rude and not-so-friendly. However, after you spend a considerable time in the historic city that you realize the true character of a Punekar, the Pune citizen.
 
